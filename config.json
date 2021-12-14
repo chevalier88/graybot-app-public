@@ -1,0 +1,18 @@
+{
+  "EXCHANGE_TYPE": "testnet",
+  "API_KEY": "ecj-dUOA",
+  "SECRET": "SXEd7cTD7kHungC09h8__9YEHyTY2kPXpdi5T9MhOfk",
+  "SOCKET": "wss://test.deribit.com/ws/api/v2",
+  "FRONT_LEG": "BTC-25MAR22",
+  "MID_LEG": "BTC-31DEC21",
+  "BACK_LEG": "BTC-PERPETUAL",
+  "TF": "30m",
+  "ROI": 2.4035856683684123,
+  "LOOKBACK": 20,
+  "STD_DEV": 1.9,
+  "FRONT_VECTOR": 1.0,
+  "MIDDLE_VECTOR": -2.0,
+  "BACK_VECTOR": 1.0,
+  "TEST_TIMESTAMP": "26112021_0012",
+  "TRADEABLE_PCT": 0.01
+}
